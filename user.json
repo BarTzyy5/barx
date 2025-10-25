@@ -1,9 +1,0 @@
-[
-  {
-    "username": "Akbar",
-    "password": "admin",
-    "role": "owner",
-    "expiresAt": 10000,
-    "createdAt": 1761319564688
-  }
-]
