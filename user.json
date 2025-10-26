@@ -5,5 +5,12 @@
     "role": "user",
     "expiresAt": 1764043011691,
     "createdAt": 1761451011692
+  },
+  {
+    "username": "Ryzenz",
+    "password": "sheheh",
+    "role": "user",
+    "expiresAt": 88161365291323,
+    "createdAt": 1761451691323
   }
 ]
