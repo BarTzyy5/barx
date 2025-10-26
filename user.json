@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "username": "Akbar",
+    "password": "admin",
+    "role": "owner",
+    "expiresAt": 1764084681147,
+    "createdAt": 1761492681147
+  }
+]
