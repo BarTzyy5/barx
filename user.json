@@ -3,13 +3,6 @@
     "username": "Akbar",
     "password": "admin",
     "role": "owner",
-    "expiresAt": 1761445956538,
-    "createdAt": 1761403385415
-  },
-  {
-    "username": "Akbar",
-    "password": "admin",
-    "role": "owner",
     "expiresAt": 1764038021978,
     "createdAt": 1761446021978
   }
