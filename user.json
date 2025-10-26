@@ -2,7 +2,7 @@
   {
     "username": "Akbar",
     "password": "admin",
-    "role": "user",
+    "role": "owner",
     "expiresAt": 1761445956538,
     "createdAt": 1761403385415
   }
