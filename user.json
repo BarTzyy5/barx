@@ -12,5 +12,12 @@
     "role": "user",
     "expiresAt": 1764043011691,
     "createdAt": 1761451011692
+  },
+  {
+    "username": "Akbar",
+    "password": "admin",
+    "role": "reseller",
+    "expiresAt": 1761451576805,
+    "createdAt": 1761451576805
   }
 ]
